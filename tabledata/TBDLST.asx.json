@@ -7,6 +7,11 @@
     "LANGU":"E",
     "LOGSYS":"QBXCLNT000",
     "STEXT":"Quality Client 000"
+   },
+   {
+    "LANGU":"E",
+    "LOGSYS":"SBXCLNT300",
+    "STEXT":"Logical Name for client 300"
    }
   ]
  }

@@ -5,6 +5,9 @@
   [
    {
     "LOGSYS":"QBXCLNT000"
+   },
+   {
+    "LOGSYS":"SBXCLNT300"
    }
   ]
  }
