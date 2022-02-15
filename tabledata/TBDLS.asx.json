@@ -11,6 +11,9 @@
    },
    {
     "LOGSYS":"SBXCLNT400"
+   },
+   {
+    "LOGSYS":"SBXCLNT500"
    }
   ]
  }

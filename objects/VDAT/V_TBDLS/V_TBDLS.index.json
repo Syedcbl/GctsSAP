@@ -32,6 +32,16 @@
      }
     ],
     "hash":"P71zt4/dxnnlSu8vUxpVPDUwAGA="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"LOGSYS",
+      "value":"SBXCLNT500"
+     }
+    ],
+    "hash":"7mTvQ8v2mPAq4hd+qML4dHG3IdI="
    }
   ]
  },
@@ -80,6 +90,20 @@
      }
     ],
     "hash":"a/enPOEK6bN3UF8cGjgGtcHvKyg="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"LANGU",
+      "value":"E"
+     },
+     {
+      "key":"LOGSYS",
+      "value":"SBXCLNT500"
+     }
+    ],
+    "hash":"TEy0Jsv/YqMYBQFXECFm4DuRN5U="
    }
   ]
  }
