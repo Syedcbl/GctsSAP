@@ -42,6 +42,16 @@
      }
     ],
     "hash":"7mTvQ8v2mPAq4hd+qML4dHG3IdI="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"LOGSYS",
+      "value":"SBXCLNT600"
+     }
+    ],
+    "hash":"6JoN8zEHsxP3a2Q4+/IRzlZvYGg="
    }
   ]
  },
@@ -104,6 +114,20 @@
      }
     ],
     "hash":"TEy0Jsv/YqMYBQFXECFm4DuRN5U="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"LANGU",
+      "value":"E"
+     },
+     {
+      "key":"LOGSYS",
+      "value":"SBXCLNT600"
+     }
+    ],
+    "hash":"OyKL3zPxFosFt2IBbKZaWKLXncc="
    }
   ]
  }

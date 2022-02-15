@@ -22,6 +22,11 @@
     "LANGU":"E",
     "LOGSYS":"SBXCLNT500",
     "STEXT":"Logical Name for client 500"
+   },
+   {
+    "LANGU":"E",
+    "LOGSYS":"SBXCLNT600",
+    "STEXT":"Logical name for client 600"
    }
   ]
  }
