@@ -1,0 +1,43 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Selection Screen",
+    "LENGTH":26
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"FOR TEST 15-02-2022",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DATE",
+    "LANG":"E",
+    "ENTRY":"        Date",
+    "LENGTH":12
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DEPTID",
+    "LANG":"E",
+    "ENTRY":"        Department ID",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_EMP",
+    "LANG":"E",
+    "ENTRY":"        Employee ID",
+    "LENGTH":19
+   }
+  ]
+ }
+]

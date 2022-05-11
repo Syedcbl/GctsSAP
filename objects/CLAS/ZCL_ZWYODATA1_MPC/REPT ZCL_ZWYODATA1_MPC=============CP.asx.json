@@ -1,0 +1,22 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"the first line of the address",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"the second line of the address",
+    "LENGTH":132
+   }
+  ]
+ }
+]
